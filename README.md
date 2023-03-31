@@ -5,6 +5,11 @@
 
 This is a web page that visualizes the bubble sorting algorithm. The page contains two buttons labeled "randomize" and "solve," and a number field where the user can specify the length of the array. The "randomize" button generates a new random array of integers of the specified length, and the "solve" button triggers the bubble sorting algorithm and displays the sorting process visually on the web page.
 
+#Live demo: 
+
+https://waleedtarbosh.github.io/Bubble-Sorting-Algorithms-Visualizer/
+
+
 <br>
 
 <!-- Programmer  Image -->
