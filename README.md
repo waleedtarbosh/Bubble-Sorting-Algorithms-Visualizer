@@ -8,13 +8,29 @@ This is a web page that visualizes the bubble sorting algorithm. The page contai
 <br>
 
 <!-- Programmer  Image -->
-<div align="center">User Details Page
+<div align="center">Randomize
 <img align="center"  width="500" src="/img/Randomize.png" alt="" />
 </div>
 
 
 <br>
+<!-- Programmer  Image -->
+<div align="center">Solve
+<img align="center"  width="500" src="/img/Solve.png" alt="" />
+</div>
+<br>
 
+<br>
+<!-- Programmer  Image -->
+<div align="center">phone
+<img align="center"  width="500" src="/img/phone.png" alt="" />
+</div>
+<br>
+<!-- Programmer  Image -->
+<div align="center">I pad
+<img align="center"  width="500" src="/img/I pad.png" alt="" />
+</div>
+<br>
 
 # Table of Contents
 
